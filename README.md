@@ -1,3 +1,17 @@
+# Instructions to Run the Script or Test cases
+Clone the git repository to local eclipse IDE.
+Import the code from local git to eclipse project. 
+Make sure the local machine have Java and Maven. 
+Setup env. variables for Java and Maven. 
+Once everything is done
+Run the TestNg file from project explorer
+Or execute Cartexe.java as TestNG 
+
+
+
+
+
+
 # assignment2
 Automate following scenarios in this website http://automationpractice.com/index.php 
 Scenario 1: Search a product and validate that the search result is the correct product being displayed 
